@@ -1,3 +1,23 @@
+## Edit pour build : 
+
+1/ En local yarn install
+
+2/ Verif package pour chemin en relatif 
+
+```
+// package.json
+{
+  "name": "your-project-name",
+  "version": "0.1.0",
+  "homepage": "./", # <--- Add this line ----
+  ...
+}
+```
+
+3/ yarn build
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
