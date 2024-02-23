@@ -16,14 +16,17 @@
 
 3/ yarn build
 
+4/ Retirer build du package.json
 
-# Page 
+
+
+## Page 
 
 Lié au dossier **build**
 
 https://thomastswd.github.io/app-react/
 
-
+----
 
 # Getting Started with Create React App
 
